@@ -7,9 +7,9 @@
     "native_enabled": true,
     "interstitial_enabled": true,
 
-    "banner_placement_id": "IMG_16_9_APP_INSTSLL#123456789012345_123456789012345",
-    "native_placement_id": "IMG_16_9_APP_INSTSLL#123456789012345_123456789012345",
-    "interstitial_placement_id": "CAROUSEL_IMG_SQUARE_APP_INSTALL#123456789012345_123456789012345",
+    "banner_placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "native_placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interstitial_placement_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
     "interstitial_frequency": 3
   },
